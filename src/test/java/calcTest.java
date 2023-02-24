@@ -37,6 +37,6 @@ public class calcTest {
     {
         Calculator calc = new Calculator();
 
-        Assertions.assertEquals(-5, calc.Add(-2,-3));
+        Assertions.assertEquals(-8, calc.Add(-2,-3));
     }
 }
